@@ -17,10 +17,3 @@ This Python script simulates a basic bank account system that supports deposit a
 - [Twilio Account](https://www.twilio.com/)
 - Twilio phone number and API credentials
 
-## 📦 Installation
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/bank-sms-system.git
-cd bank-sms-system
